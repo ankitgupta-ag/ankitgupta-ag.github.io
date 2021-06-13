@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Ankit Gupta",
+    siteUrl: "https://ankitgupta-ag.github.io",
   },
   plugins: [
     "gatsby-plugin-theme-ui",
